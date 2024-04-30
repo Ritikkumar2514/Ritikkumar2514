@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @Ritikkumar
-- 👀 I’m interested in ... Software and web design 
-- 🌱 I’m currently learning ... Python and CSS and HTML
-- 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me ...E-3553, Rajajipuram Lucknow 
