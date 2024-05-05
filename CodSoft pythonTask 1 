@@ -11,5 +11,5 @@ elif choice ==3:
     print("The multiplication of given two number is",num1 * num2)
 elif choice ==4:
     print("The divison of given two number is",num1 /  num2)
-elif:
+else:
     print ("Invalid input")
